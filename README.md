@@ -25,6 +25,6 @@ I am a 19-year-old **AI & Data Science Undergraduate** at **IIT Sri Lanka** (Deg
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pamudu-Siriwardhana&show_icons=true&theme=radical" alt="Pamudu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamudu-Siriwardhana&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pamudu-Siriwardhana&show_icons=true&theme=radical&v=1" alt="Pamudu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamudu-Siriwardhana&layout=compact&theme=radical&v=1" alt="Top Languages" />
 </div>
