@@ -5,9 +5,8 @@ I am a 19-year-old **AI & Data Science Undergraduate** at **IIT Sri Lanka** (Deg
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently focusing on my studies in Artificial Intelligence and Data Science.
-- 🌱 I’m actively building projects to strengthen my programming and analytical skills.
 - 💬 Ask me about **Python, Java, or Data Science concepts**.
-- 📫 How to reach me: **[Insert your email address or LinkedIn profile link here]**
+- 📫 How to reach me: **siriwardanapamudu@gmail.com**
 
 ## 🛠️ Tech Stack & Skills
 
@@ -25,8 +24,7 @@ I am a 19-year-old **AI & Data Science Undergraduate** at **IIT Sri Lanka** (Deg
 
 ## 📊 My GitHub Stats
 
-<!-- Be sure to replace YOUR_USERNAME with your actual GitHub username -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Pamudu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pamudu-Siriwardhana&show_icons=true&theme=radical" alt="Pamudu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamudu-Siriwardhana&layout=compact&theme=radical" alt="Top Languages" />
 </div>
