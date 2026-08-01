@@ -6,7 +6,7 @@ I am a 19-year-old **AI & Data Science Undergraduate** at **IIT Sri Lanka** (Deg
 
 - 🔭 I’m currently focusing on my studies in Artificial Intelligence and Data Science.
 - 💬 Ask me about **Python, Java, or Data Science concepts**.
-- 📫 How to reach me: **[siriwardanapamudu@gmail.com](https://www.linkedin.com/in/pamudu-siriwardhana-6366052b4/)**
+- 📫 How to reach me: **https://www.linkedin.com/in/pamudu-siriwardhana-6366052b4/**
 
 ## 🛠️ Tech Stack & Skills
 
