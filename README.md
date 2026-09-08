@@ -31,12 +31,16 @@ I'm an **AI & Data Science Undergraduate** at IIT Sri Lanka (degree awarded by R
 
 ### 📊 My GitHub Stats
 
-![Pamudu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pamudu-Siriwardhana&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pamudu-Siriwardhana&layout=compact)
+![Pamudu's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Pamudu-Siriwardhana&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pamudu-Siriwardhana&layout=compact)
+
+> If these don't load right away, GitHub's image cache can take a minute after your first commit — refresh the page after a bit.
 
 ---
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamudu-siriwardhana-6366052b4/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:siriwardanapamudu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamudu-siriwardhana-6366052b4/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:siriwardanapamudu@gmail.com)
+
+📧 **Email:** siriwardanapamudu@gmail.com
