@@ -1,30 +1,42 @@
 # Hi there, I'm Pamudu Siriwardhana 👋
 
-I am a 19-year-old **AI & Data Science Undergraduate** at **IIT Sri Lanka** (Degree offered by **Robert Gordon University**). I am passionate about leveraging data and artificial intelligence to build impactful solutions.
+I'm an **AI & Data Science Undergraduate** at IIT Sri Lanka (degree awarded by Robert Gordon University, Aberdeen). I'm passionate about using data and artificial intelligence to build practical, impactful solutions.
 
-## 👨‍💻 About Me
+---
 
-- 🔭 I’m currently focusing on my studies in Artificial Intelligence and Data Science.
-- 💬 Ask me about **Python, Java, or Data Science concepts**.
-- 📫 How to reach me: **https://www.linkedin.com/in/pamudu-siriwardhana-6366052b4/**
+### 👤 About Me
 
-## 🛠️ Tech Stack & Skills
+- 🎓 Currently studying Artificial Intelligence & Data Science
+- 💬 Ask me about **Python**, **Java**, or **Data Science** concepts
+- 🌱 Always learning and building new projects
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/pamudu-siriwardhana-6366052b4/)
 
-### Programming Languages
-* Python
-* Java
-* JavaScript
+---
 
-### Web Technologies
-* HTML5
-* CSS3
+### 🛠️ Tech Stack & Skills
 
-### Databases
-* SQL
+**Programming Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## 📊 My GitHub Stats
+**Web Technologies**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pamudu-Siriwardhana&show_icons=true&count_private=true&include_all_commits=true&title_color=FFD700&icon_color=FFD700&text_color=b3b3b3&bg_color=0d1117&hide_border=true" alt="Pamudu's GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pamudu-Siriwardhana&layout=compact&title_color=FFD700&text_color=b3b3b3&bg_color=0d1117&hide_border=true" alt="Top Languages" />
-</div>
+**Databases**
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+### 📊 My GitHub Stats
+
+![Pamudu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pamudu-Siriwardhana&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pamudu-Siriwardhana&layout=compact)
+
+---
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamudu-siriwardhana-6366052b4/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:siriwardanapamudu@gmail.com)
