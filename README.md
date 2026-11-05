@@ -22,7 +22,6 @@ I like projects where software meets a real-world need: helping a local tradespe
 public class Pamudu {
     String role     = "AI & Data Science Undergraduate";
     String base     = "Colombo, Sri Lanka";
-    String[] stack  = {"Java", "Python", "Spring Boot", "SQL", "JavaScript"};
     String mission  = "Build practical software that actually helps people";
 
     boolean isLearning() { return true; }   // always
